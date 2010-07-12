@@ -1,0 +1,11 @@
+(package
+ (version v1.0)
+ (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
+ (author "Guillaume Germain <guillaume dot germain at gmail dot com")
+ (homepage "http://github.com/pereckerdal/uuid")
+ (description "A procedure that generates UUIDs")
+ (keywords web)
+ (license lgpl/v2 apache/v2)
+
+ (exported-modules)
+ (default-module uuid))
